@@ -1,6 +1,6 @@
 # C++ Assignment
-Sujal kumar
-Roll no - 67
-Btech CSE 3A
+SUJAL KUMAR
+BTECH CSE 3A
+ROLL NO 67
 
 
